@@ -1,15 +1,15 @@
 from setuptools import find_packages, setup
 
 requirements = [
-    'jupyter>=1.0.0',
-    'numpy>=2.0',
-    'matplotlib>=3.8',
-    'matplotlib-inline>=0.1',
-    'requests>=2.31',
-    'pandas>=2.2',
-    'pillow>=10.0',
-    'torch>=2.12',
-    'torchvision>=0.27',
+    'jupyter',
+    'numpy',
+    'matplotlib',
+    'matplotlib-inline',
+    'requests',
+    'pandas',
+    'pillow',
+    'torch',
+    'torchvision',
 ]
 
 setup(
