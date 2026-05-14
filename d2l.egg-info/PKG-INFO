@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: d2l
+Version: 1.0.3.post1
+Summary: Dive into Deep Learning
+Home-page: https://d2l.ai
+Author: D2L Developers
+Author-email: d2l.devs@gmail.com
+License: MIT-0
+Requires-Python: >=3.10
+Requires-Dist: jupyter>=1.0.0
+Requires-Dist: numpy>=2.0
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: matplotlib-inline>=0.1
+Requires-Dist: requests>=2.31
+Requires-Dist: pandas>=2.2
+Requires-Dist: pillow>=10.0
+Requires-Dist: torch>=2.12
+Requires-Dist: torchvision>=0.27
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
